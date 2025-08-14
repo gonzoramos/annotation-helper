@@ -1,6 +1,6 @@
 # Readme
 
-Project hosting code and tools for the AI&S project (lead: Jenny Williams) studying writers and their use of AI tools.
+Project hosting code and tools to help people annotating text transcripts, and later extract the annotations and codes as a table.
 
 ## Requirements
 - Python 3.x
